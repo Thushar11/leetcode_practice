@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Thushar11/leetcode_practice/tree/master/0009-palindrome-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Thushar11/leetcode_practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Thushar11/leetcode_practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
 |  |
 | ------- |
