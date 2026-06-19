@@ -29,17 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Thushar11/leetcode_practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Thushar11/leetcode_practice/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Thushar11/leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Thushar11/leetcode_practice/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Thushar11/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Thushar11/leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Thushar11/leetcode_practice/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/Thushar11/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Thushar11/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Thushar11/leetcode_practice/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Thushar11/leetcode_practice/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
