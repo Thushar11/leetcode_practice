@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Thushar11/leetcode_practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Thushar11/leetcode_practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Thushar11/leetcode_practice/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/Thushar11/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Thushar11/leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Thushar11/leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Thushar11/leetcode_practice/tree/master/1512-number-of-good-pairs) |
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Thushar11/leetcode_practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Thushar11/leetcode_practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Thushar11/leetcode_practice/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/Thushar11/leetcode_practice/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Thushar11/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/Thushar11/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/Thushar11/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
