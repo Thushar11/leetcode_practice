@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Thushar11/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Thushar11/leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Thushar11/leetcode_practice/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Thushar11/leetcode_practice/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/Thushar11/leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Thushar11/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Thushar11/leetcode_practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thushar11/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Thushar11/leetcode_practice/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Thushar11/leetcode_practice/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Thushar11/leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Thushar11/leetcode_practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Thushar11/leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Thushar11/leetcode_practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
