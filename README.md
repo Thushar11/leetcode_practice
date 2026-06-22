@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Thushar11/leetcode_practice/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Thushar11/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Thushar11/leetcode_practice/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Thushar11/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Thushar11/leetcode_practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Thushar11/leetcode_practice/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/Thushar11/leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Thushar11/leetcode_practice/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Thushar11/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Thushar11/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Thushar11/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Thushar11/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Thushar11/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Thushar11/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Thushar11/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Thushar11/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Thushar11/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Thushar11/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## Design
 |  |
@@ -114,4 +118,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Thushar11/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Thushar11/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Thushar11/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Thushar11/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Thushar11/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
