@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Thushar11/leetcode_practice/tree/master/0098-validate-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Thushar11/leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -146,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Thushar11/leetcode_practice/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Thushar11/leetcode_practice/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Thushar11/leetcode_practice/tree/master/0178-rank-scores) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Thushar11/leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Thushar11/leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Thushar11/leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
