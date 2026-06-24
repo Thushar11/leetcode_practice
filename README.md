@@ -140,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Thushar11/leetcode_practice/tree/master/0078-subsets) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Thushar11/leetcode_practice/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
