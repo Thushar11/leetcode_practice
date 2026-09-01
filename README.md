@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Thushar11/leetcode_practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Thushar11/leetcode_practice/tree/master/0031-next-permutation) |
 | [0078-subsets](https://github.com/Thushar11/leetcode_practice/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Thushar11/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Thushar11/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Thushar11/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Thushar11/leetcode_practice/tree/master/0303-range-sum-query-immutable) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Thushar11/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Thushar11/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bracket Sequences
 |  |
 | ------- |
