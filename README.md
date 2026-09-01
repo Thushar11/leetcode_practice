@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Thushar11/leetcode_practice/tree/master/0031-next-permutation) |
 | [0078-subsets](https://github.com/Thushar11/leetcode_practice/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/Thushar11/leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Thushar11/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Thushar11/leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Thushar11/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Thushar11/leetcode_practice/tree/master/0724-find-pivot-index) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Thushar11/leetcode_practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Thushar11/leetcode_practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Thushar11/leetcode_practice/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Thushar11/leetcode_practice/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
