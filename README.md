@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Thushar11/leetcode_practice/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Thushar11/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [1512-number-of-good-pairs](https://github.com/Thushar11/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/Thushar11/leetcode_practice/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Thushar11/leetcode_practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -174,9 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Thushar11/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Thushar11/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thushar11/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Thushar11/leetcode_practice/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Thushar11/leetcode_practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
